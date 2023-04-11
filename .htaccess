@@ -1,0 +1,4 @@
+AuthName "Wanheda Login-Bereich"
+AuthType Basic
+AuthUserFile /var/www/vhosts/hosting179005.ae8a0.netcup.net/httpdocs/schule/diplomarbeit/.htpasswd
+require valid-user

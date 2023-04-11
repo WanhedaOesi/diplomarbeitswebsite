@@ -1,0 +1,15 @@
+/*CSS Dokument*/
+
+.container{
+color: #ffffff;
+min-width: 1900px !important;
+}
+
+.authorlinklistitem{margin-bottom: 20px;font-size: 30px;}
+
+
+.authorimage{text-align: center !important; margin-top: 20px;}
+
+.bookcoverimages{margin-top: 20px;}
+
+.gifauthor{width: 380px;font-size: 10px;}

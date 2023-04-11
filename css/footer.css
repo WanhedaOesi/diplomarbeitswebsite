@@ -1,0 +1,13 @@
+/*CSS Dokument*/
+#footerwrapper{
+background: var(--semidarkgrey);
+color: #ffffff;
+height: 40px;
+padding: 5px;
+font-size: 20px;
+text-align: center;
+}
+.copyright{margin-top: 10px;}
+
+
+

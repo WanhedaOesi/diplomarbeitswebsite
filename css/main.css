@@ -1,0 +1,38 @@
+/*CSS Dokument*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+font-family: 'Montserrat', 'sans-serif';
+background: var(--darkgrey);
+}
+
+#contentwrapper{
+padding: 5px;
+font-size: 20px;
+height: 1000px;
+}
+
+a:link{
+color: var(--middarkgrey);
+text-decoration: none;
+}
+
+a:visited{
+color: var(--middarkgrey);
+text-decoration: none;
+}
+
+a:hover{
+color: var(--semidarkgrey);
+text-decoration: none;
+}
+
+a:active{
+color: var(--semidarkgrey);
+text-decoration: none;
+}
